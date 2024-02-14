@@ -1,0 +1,15 @@
+instance creada con IP 3.148.103.107 
+instance 3.148.103.107 Destruida 
+instance creada con IP 18.118.29.13 
+instance 18.118.29.13 Destruida 
+instance creada con IP 3.134.84.230 
+instance 3.134.84.230 Destruida 
+instance creada con IP 18.217.75.136 
+instance 18.217.75.136 Destruida 
+instance creada con IP 3.16.149.43 
+instance 3.16.149.43 Destruida 
+instance creada con IP 3.14.83.116 
+instance 3.14.83.116 Destruida 
+instance creada con IP 18.222.150.11 
+instance 18.222.150.11 Destruida 
+instance creada con IP 18.188.49.119 
